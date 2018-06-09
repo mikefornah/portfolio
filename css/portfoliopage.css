@@ -1,0 +1,76 @@
+h1 {
+	color: #f4a742; 
+	margin: 0 auto;
+	padding: 100px 0px;
+	background-size: cover;
+	background-image: url(http://potomacwebsites.com/portfolio/images/trees.jpg);
+}
+body {
+	margin: 0 auto;
+	background-size: cover;
+	border-top: 0;
+	padding-top: 0;
+	padding: 0; 
+	border: 0; 
+	outline: 0; 
+	font: inherit;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+h2{ 
+	text-indent: 16em; 
+	font-weight: bold; 
+
+ }
+
+.introduction { 
+	font-size: 16px; 
+	max-width: 500px; 
+	margin: 0 auto; 
+	font-family: arial; 
+	 
+}
+.background { 
+	font-size: 16px; 
+	max-width: 500px; 
+	margin: 0 auto;
+	font-family: arial; 
+}
+.dreamjob { 
+	max-width: 500px; 
+	margin: 0 auto;
+	font-size: 16px;
+	font-family: arial; 
+
+ }
+.TVshows { 
+	max-width: 500px;
+	margin: 0 auto;  
+	font-size: 16px; 
+	font-family: arial; 
+}
+.hobbies { 
+	max-width: 500px; 
+	margin: 0 auto;
+	font-size: 16px; 	
+	font-family: arial; 
+
+ }
+
+p { 
+	font-style: italic;
+	color: green; 
+
+ }
+
+
+footer { 
+	padding: 60px;
+	text-align: center; 
+	background-color: #bfbfbf;
+	font-size: 16px; 
+	font-family: tahoma; 
+	
+
+ }
